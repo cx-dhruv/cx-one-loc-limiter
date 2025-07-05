@@ -1,4 +1,4 @@
-/**
+
  * Checkmarx scan janitor
  * ----------------------
  * Deletes completed scans whose LOC exceeds LOC_THRESHOLD.
@@ -8,4 +8,3 @@
  *   CLIENT_SECRET
  *
  * Usage: node loc-limiter.js
- */
